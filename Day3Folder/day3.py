@@ -48,19 +48,24 @@ print("hello from day3")
 ########################################################################
 # Task 5:
 
-daddyage = input("how old is your daddy? ")
-daddyage = int(daddyage) # conversion
-mommyage = input("how old is your mommy? ")
-mommyage = int(mommyage) # conversion
+# daddyage = input("how old is your daddy? ")
+# daddyage = int(daddyage) # conversion
+# mommyage = input("how old is your mommy? ")
+# mommyage = int(mommyage) # conversion
 
-if daddyage > mommyage:
-    print("daddy is older")
-else:
-    print("mommy is the same age, or maybe younger")
+# if daddyage > mommyage:
+#     print("daddy is older")
+# else:
+#     print("mommy is the same age, or maybe younger")
+
 ########################################################################
 # Task 6:
 
-
+for count in range(3):
+    hidden = "passme"
+    guess = input("what is the password for today?")
+    if hidden == guess:
+        print("")
 
 ########################################################################
 # Task 7:
