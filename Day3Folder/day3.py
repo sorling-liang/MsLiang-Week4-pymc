@@ -11,6 +11,10 @@ print("you are " + yourage + " years old")
 ########################################################################
 # Task 1:
 
+yourname = input("what is your name? ")
+yourtitle = input("what is your title? ")
+yourcommand = input("what is your command? ")
+
 
 
 ########################################################################
