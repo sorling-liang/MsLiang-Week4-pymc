@@ -29,7 +29,9 @@ print("hello from day3")
 # Task 3:
 
 num1 = input("give me a number ")
+num1 = int(num1)
 num2 = input("give me another number ")
+num2 = int(num2)
 print( num1 + num2 )
 
 
