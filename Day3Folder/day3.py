@@ -6,7 +6,8 @@ yourname = input("what is your name?")
 print(yourname + " please pay attention")
 
 yourage = input("how old are you?")
-print("")
+print("you are " + yourage + " years old")
+
 ########################################################################
 # Task 1:
 
