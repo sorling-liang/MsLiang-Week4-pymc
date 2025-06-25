@@ -49,9 +49,9 @@ print("hello from day3")
 # Task 5:
 
 daddyage = input("how old is your daddy? ")
-daddyage = int(daddyage)
+daddyage = int(daddyage) # conversion
 mommyage = input("how old is your mommy? ")
-mommyage = int(mommyage)
+mommyage = int(mommyage) # conversion
 
 if daddyage > mommyage:
     print("daddy is older")
