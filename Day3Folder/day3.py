@@ -22,7 +22,7 @@ print("hello from day3")
 # Task 2:
 name = "lionel messi"
 num_pens = "10"
-print(name + " wanted to buy " + num_pens + " pens")
+print(name + " wanted to buy " + num_pens + " pens for his children")
 
 
 ########################################################################
