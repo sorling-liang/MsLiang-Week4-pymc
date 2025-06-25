@@ -21,7 +21,8 @@ print( yourtitle + " " + yourname + " commands the peasants to " + yourcommand )
 ########################################################################
 # Task 2:
 name = "lionel messi"
-num_pens = 
+num_pens = 10
+print(name + " wanted to buy " + num_pens + " pens")
 
 
 ########################################################################
