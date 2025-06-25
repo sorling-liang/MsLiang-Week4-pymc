@@ -28,22 +28,22 @@ print("hello from day3")
 ########################################################################
 # Task 3:
 
-num1 = input("give me a number ")
-num1 = int(num1) # conversion
-num2 = input("give me another number ")
-num2 = int(num2) # conversion
-print(" the final answer is " + str(num1 + num2))
+# num1 = input("give me a number ")
+# num1 = int(num1) # conversion
+# num2 = input("give me another number ")
+# num2 = int(num2) # conversion
+# print(" the final answer is " + str(num1 + num2))
 
 
 ########################################################################
 # Task 4:
 
-# item = "apple"
-# unitcost = 0.35
-# quantity = input("how many do you want to buy?")
-# quantity = int(quantity)
-# total = unitcost * quantity
-# print("please pay me $" + str(total) + " for your " + item)
+item = "apple"
+unitcost = 0.35
+quantity = input("how many do you want to buy?")
+quantity = int(quantity)
+total = unitcost * quantity
+print("please pay me $" + str(total) + " for your " + item)
 
 ########################################################################
 # Task 5:
