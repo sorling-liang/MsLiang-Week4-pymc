@@ -66,10 +66,12 @@ for count in range(3):
     guess = input("what is the password for today?")
     if hidden == guess:
         print("you are correct! access is granted")
+        break
     else:
         print("wrong!")
-        
+
 if hidden != guess:
+    print("system has locked you out")
 
 ########################################################################
 # Task 7:
