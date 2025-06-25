@@ -32,7 +32,7 @@ num1 = input("give me a number ")
 num1 = int(num1) # conversion
 num2 = input("give me another number ")
 num2 = int(num2) # conversion
-print(" the final answer is " + num1 + num2 )
+print(" the final answer is " + str(num1 + num2 ))
 
 
 ########################################################################
