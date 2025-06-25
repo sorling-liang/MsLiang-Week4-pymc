@@ -49,7 +49,9 @@ print("hello from day3")
 # Task 5:
 
 daddyage = input("how old is your daddy? ")
+daddyage = int(daddyage)
 mommyage = input("how old is your mommy? ")
+mommyage = int(mommyage)
 
 ########################################################################
 # Task 6:
