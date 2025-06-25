@@ -42,8 +42,8 @@ item = "apple"
 unitcost = 0.35
 quantity = input("how many do you want to buy?")
 quantity = int(quantity)
-total = in
-print("????")
+total = unitcost * quantity
+print("please pay me $" + str(total) + " for your " + item)
 
 ########################################################################
 # Task 5:
