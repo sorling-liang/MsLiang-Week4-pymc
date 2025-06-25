@@ -53,6 +53,10 @@ daddyage = int(daddyage)
 mommyage = input("how old is your mommy? ")
 mommyage = int(mommyage)
 
+if daddyage > mommyage:
+    print("daddy is older")
+else:
+    print("mommy is the same age, or maybe younger")
 ########################################################################
 # Task 6:
 
