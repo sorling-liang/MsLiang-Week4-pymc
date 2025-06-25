@@ -20,15 +20,17 @@ print("hello from day3")
 
 ########################################################################
 # Task 2:
-name = "lionel messi"
-num_pens = "10"
-print(name + " wanted to buy " + num_pens + " pens for his children")
+# name = "lionel messi"
+# num_pens = "10"
+# print(name + " wanted to buy " + num_pens + " pens for his children")
 
 
 ########################################################################
 # Task 3:
 
 num1 = input("give me a number ")
+num2 = input("give me another number ")
+print( num1 + num2 )
 
 
 ########################################################################
