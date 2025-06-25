@@ -20,7 +20,8 @@ print( yourtitle + " " + yourname + " commands the peasants to " + yourcommand )
 
 ########################################################################
 # Task 2:
-
+name = "lionel messi"
+num_pens = 
 
 
 ########################################################################
