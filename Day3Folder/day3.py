@@ -39,9 +39,11 @@ print("hello from day3")
 # Task 4:
 
 item = "apple"
-unitcost = "0.35"
+unitcost = 0.35
 quantity = input("how many do you want to buy?")
-
+quantity = int(quantity)
+total = in
+print("????")
 
 ########################################################################
 # Task 5:
