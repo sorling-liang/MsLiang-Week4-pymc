@@ -65,7 +65,10 @@ for count in range(3):
     hidden = "passme"
     guess = input("what is the password for today?")
     if hidden == guess:
-        print("you are correct! access ")
+        print("you are correct! access is granted")
+    else:
+        print("wrong!")
+
 
 ########################################################################
 # Task 7:
