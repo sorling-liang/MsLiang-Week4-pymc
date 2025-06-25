@@ -5,6 +5,8 @@ print("hello from day3")
 yourname = input("what is your name?")
 print(yourname + " please pay attention")
 
+yourage = input("how old are you?")
+print("")
 ########################################################################
 # Task 1:
 
