@@ -29,9 +29,9 @@ print("hello from day3")
 # Task 3:
 
 num1 = input("give me a number ")
-num1 = int(num1)
+num1 = int(num1) # conversion
 num2 = input("give me another number ")
-num2 = int(num2)
+num2 = int(num2) # conversion
 print( num1 + num2 )
 
 
