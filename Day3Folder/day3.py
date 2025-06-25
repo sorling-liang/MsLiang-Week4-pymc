@@ -2,11 +2,11 @@
 # COMMENT out the previous task before going on to the next task
 print("hello from day3")
 
-yourname = input("what is your name?")
-print(yourname + " please pay attention")
+# yourname = input("what is your name?")
+# print(yourname + " please pay attention")
 
-yourage = input("how old are you?")
-print("you are " + yourage + " years old")
+# yourage = input("how old are you?")
+# print("you are " + yourage + " years old")
 
 ########################################################################
 # Task 1:
