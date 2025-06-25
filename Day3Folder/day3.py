@@ -11,11 +11,11 @@ print("hello from day3")
 ########################################################################
 # Task 1:
 
-yourname = input("what is your name? ")
-yourtitle = input("what is your title? ")
-yourcommand = input("what is your command? ")
+# yourname = input("what is your name? ")
+# yourtitle = input("what is your title? ")
+# yourcommand = input("what is your command? ")
 
-print( yourtitle + " " + yourname + " commands the peasants to " + yourcommand )
+# print( yourtitle + " " + yourname + " commands the peasants to " + yourcommand )
 
 
 ########################################################################
