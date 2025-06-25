@@ -68,7 +68,8 @@ for count in range(3):
         print("you are correct! access is granted")
     else:
         print("wrong!")
-
+        
+if hidden != guess:
 
 ########################################################################
 # Task 7:
