@@ -50,6 +50,6 @@ tries = 1
 while guess != hidden:
     print("wrong! try again!")
     tries = tries + 1
-    guess = input( riddle ) # ask again
+    guess = input( question ) # ask again
 else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
