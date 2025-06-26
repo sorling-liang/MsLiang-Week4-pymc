@@ -41,7 +41,9 @@ print("hello from day4")
 import random
 num1 = random.randint(5, 69)
 num2 = random.randint(5, 69)
+
 hidden = num1 + num2
+
 question = "what is " + str(num1) + " + " + str(num2) + "? "
 guess = input(question)
 tries = 1
