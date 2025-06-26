@@ -20,6 +20,8 @@ hidden = "no idea"
 guess = input( riddle )
 if guess == hidden:
     print("you are correct!")
+else:
+    print("wrong! try again!")
 
 ########################################################################
 # Additional exercises:
