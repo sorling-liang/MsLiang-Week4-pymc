@@ -31,3 +31,8 @@ else:
 
 # ask a Math addition question using random to generate 2 random numbers
 # keep asking until the person gets the correct answer
+
+# what is 43 + 67?
+# 69
+# wrong! try again!
+#
