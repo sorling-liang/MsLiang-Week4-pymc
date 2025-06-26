@@ -47,7 +47,7 @@ hidden = num1 + num2
 question = "what is " + str(num1) + " + " + str(num2) + "? "
 guess = input(question)
 tries = 1
-while guess != hidden:
+while guess != str(hidden):
     print("wrong! try again!")
     tries = tries + 1
     guess = input( question ) # ask again
