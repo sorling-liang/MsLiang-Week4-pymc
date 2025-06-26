@@ -3,6 +3,8 @@
 print("hello from day4")
 
 import random
+diceValue = random.randint(1, 6)
+print(diceValue)
 
 ########################################################################
 # Task 1:
