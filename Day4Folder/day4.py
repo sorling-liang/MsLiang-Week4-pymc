@@ -36,4 +36,5 @@ else:
 # 69
 # wrong! try again!
 # what is 43 + 67?
-#
+# 110
+# correct! you got it after 2 tries
