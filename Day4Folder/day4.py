@@ -3,8 +3,9 @@
 print("hello from day4")
 
 import random
-diceValue = random.randint(1, 6)
-print(diceValue)
+for count in range(10):
+    diceValue = random.randint(1, 10)
+    print(diceValue)
 
 ########################################################################
 # Task 1:
