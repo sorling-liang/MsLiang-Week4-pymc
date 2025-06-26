@@ -17,7 +17,7 @@ for count in range(10):
 
 riddle = "what do you call a deer with no eyes?"
 hidden = "no idea"
-
+guess = input( riddle )
 
 ########################################################################
 # Additional exercises:
