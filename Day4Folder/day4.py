@@ -21,7 +21,6 @@ guess = input( riddle )
 while guess != hidden:
     print("wrong! try again!")
     guess = input( riddle )
-
 else:
     print("you are correct!")
 
