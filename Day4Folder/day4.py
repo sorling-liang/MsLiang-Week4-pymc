@@ -29,4 +29,4 @@ else:
 ########################################################################
 # Additional exercises:
 
-# ask a 
+# ask a Math addition question using random to generate 2 random numbers
