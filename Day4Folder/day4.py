@@ -39,4 +39,5 @@ print("hello from day4")
 # 110
 # correct! you got it after 2 tries
 import random
-num1 = random.r
+num1 = random.randint(5, 69)
+num2 = random.randint(5, 69)
