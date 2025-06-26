@@ -20,11 +20,10 @@ hidden = "no idea"
 guess = input( riddle )
 while guess != hidden:
     print("wrong! try again!")
-guess = input( riddle )
-if guess == hidden:
-    print("you are correct!")
+    guess = input( riddle )
+
 else:
-    print("wrong! try again!")
+    print("you are correct!")
 
 ########################################################################
 # Additional exercises:
