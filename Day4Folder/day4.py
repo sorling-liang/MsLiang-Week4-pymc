@@ -21,9 +21,10 @@ guess = input( riddle )
 tries = 0
 while guess != hidden:
     print("wrong! try again!")
+    tries = tries + 1
     guess = input( riddle )
 else:
-    print("you are correct!")
+    print("you are correct! and you got it after " +)
 
 ########################################################################
 # Additional exercises:
