@@ -15,7 +15,8 @@ for count in range(10):
 ########################################################################
 # Task 2:
 
-riddle = "what do you call a"
+riddle = "what do you call a deer with no eyes?"
+hidden = "no idea"
 
 
 ########################################################################
