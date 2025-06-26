@@ -22,7 +22,7 @@ tries = 1
 while guess != hidden:
     print("wrong! try again!")
     tries = tries + 1
-    guess = input( riddle )
+    guess = input( riddle ) # ask again
 else:
     print("you are correct! and you got it after " + str(tries) + " tries.")
 
